@@ -25,31 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="machine_bois_composite_placage_de_chant.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/machine_bois_composite_placage_de_chant.html">
+      <file leaf-file-name="machine_bois_composite_poncage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machine_bois_composite_poncage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="182" column="61" lean-forward="false" selection-start-line="182" selection-start-column="61" selection-end-line="182" selection-end-column="61" />
+            <state relative-caret-position="570">
+              <caret line="218" column="31" lean-forward="true" selection-start-line="218" selection-start-column="31" selection-end-line="218" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="machine_bois_composite_placage_de_chant_plaqueuse_forme.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/machine_bois_composite_placage_de_chant_plaqueuse_forme.html">
+      <file leaf-file-name="machine_metal_panneau.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/machine_metal_panneau.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="199" column="61" lean-forward="false" selection-start-line="199" selection-start-column="61" selection-end-line="199" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plaqueuse_forme_OLIMPIC_T20.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/machines/plaqueuse_forme_OLIMPIC_T20.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="246" column="82" lean-forward="false" selection-start-line="246" selection-start-column="82" selection-end-line="246" selection-end-column="82" />
+            <state relative-caret-position="205">
+              <caret line="196" column="27" lean-forward="false" selection-start-line="196" selection-start-column="27" selection-end-line="196" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -70,9 +60,9 @@
       <find>machine_bois_composite_corroyage_moulurage.html</find>
       <find>plaqueuse_droite_simple_OLIMPIC_K360.html</find>
       <find>plaqueuse_droite_double_EVOLUTION.html</find>
-      <find>plaqueuse_droite_simple_SOLUTION_SLIM_LINE.html</find>
-      <find>plaqueuse_droite_simple_OLIMPIC_K800.html</find>
       <find>plaqueuse_forme_OLIMPIC_E10.html</find>
+      <find>plaqueuse_droite_simple_OLIMPIC_K800.html</find>
+      <find>plaqueuse_droite_simple_SOLUTION_SLIM_LINE.html</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -94,6 +84,8 @@
         <option value="$PROJECT_DIR$/machine_bois_composite_placage_de_chant_plaqueuses_double.html" />
         <option value="$PROJECT_DIR$/machine_bois_composite_placage_de_chant_plaqueuse_forme.html" />
         <option value="$PROJECT_DIR$/machines/plaqueuse_forme_OLIMPIC_T20.html" />
+        <option value="$PROJECT_DIR$/machine_bois_composite_poncage.html" />
+        <option value="$PROJECT_DIR$/machine_metal_panneau.html" />
       </list>
     </option>
   </component>
@@ -134,20 +126,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machines" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -247,12 +225,12 @@
       <workItem from="1493371355864" duration="2245000" />
       <workItem from="1494947999162" duration="309000" />
       <workItem from="1495015984389" duration="29000" />
-      <workItem from="1495631786495" duration="4567000" />
+      <workItem from="1495631786495" duration="4827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7150000" />
+    <option name="totallyTimeSpent" value="7410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="212" width="960" height="1009" extended-state="4" />
@@ -503,14 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="159" column="20" lean-forward="false" selection-start-line="159" selection-start-column="20" selection-end-line="159" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/machine_bois_composite_placage_de_chant_plaqueuses_simple.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -527,14 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/machine_bois_composite_placage_de_chant.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="182" column="61" lean-forward="false" selection-start-line="182" selection-start-column="61" selection-end-line="182" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/machine_bois_composite_placage_de_chant_plaqueuse_forme.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -545,8 +507,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/machines/plaqueuse_forme_OLIMPIC_T20.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="246" column="82" lean-forward="false" selection-start-line="246" selection-start-column="82" selection-end-line="246" selection-end-column="82" />
+        <state relative-caret-position="220">
+          <caret line="245" column="52" lean-forward="true" selection-start-line="245" selection-start-column="52" selection-end-line="245" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine_bois_composite_placage_de_chant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="182" column="61" lean-forward="false" selection-start-line="182" selection-start-column="61" selection-end-line="182" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="159" column="20" lean-forward="false" selection-start-line="159" selection-start-column="20" selection-end-line="159" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine_bois_composite_poncage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="218" column="31" lean-forward="true" selection-start-line="218" selection-start-column="31" selection-end-line="218" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine_metal_panneau.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="196" column="27" lean-forward="false" selection-start-line="196" selection-start-column="27" selection-end-line="196" selection-end-column="27" />
           <folding />
         </state>
       </provider>
