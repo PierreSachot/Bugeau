@@ -15,31 +15,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="machine_bois_composite_usinage_tenonneuses.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/machine_bois_composite_usinage_tenonneuses.html">
+      <file leaf-file-name="centre_usinage_charpente_techno_pf.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machines/centre_usinage_charpente_techno_pf.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="221" column="0" lean-forward="false" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
+            <state relative-caret-position="435">
+              <caret line="289" column="0" lean-forward="false" selection-start-line="289" selection-start-column="0" selection-end-line="289" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="machine_bois_composite_tenonneuses_teno_dynamic.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/machines/machine_bois_composite_tenonneuses_teno_dynamic.html">
+      <file leaf-file-name="centre_usinage_charpente_techno_turn.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machines/centre_usinage_charpente_techno_turn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="197" column="64" lean-forward="false" selection-start-line="197" selection-start-column="64" selection-end-line="197" selection-end-column="64" />
+            <state relative-caret-position="600">
+              <caret line="276" column="0" lean-forward="false" selection-start-line="276" selection-start-column="0" selection-end-line="276" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="machine_bois_composite_tenonneuses_utp_150_evolution.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/machines/machine_bois_composite_tenonneuses_utp_150_evolution.html">
+      <file leaf-file-name="centre_usinage_charpente_techno_saw.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machines/centre_usinage_charpente_techno_saw.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="216" column="44" lean-forward="true" selection-start-line="216" selection-start-column="44" selection-end-line="216" selection-end-column="56" />
+            <state relative-caret-position="705">
+              <caret line="269" column="0" lean-forward="false" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="centre_usinage_charpente_techno_wall.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/machines/centre_usinage_charpente_techno_wall.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="247" column="0" lean-forward="true" selection-start-line="247" selection-start-column="0" selection-end-line="247" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -120,6 +130,11 @@
         <option value="$PROJECT_DIR$/machine_bois_composite_usinage_tenonneuses.html" />
         <option value="$PROJECT_DIR$/machines/machine_bois_composite_tenonneuses_utp_150_evolution.html" />
         <option value="$PROJECT_DIR$/machines/machine_bois_composite_tenonneuses_teno_dynamic.html" />
+        <option value="$PROJECT_DIR$/machine_bois_composite_centre_usinage_charpente.html" />
+        <option value="$PROJECT_DIR$/machines/centre_usinage_charpente_techno_turn.html" />
+        <option value="$PROJECT_DIR$/machines/centre_usinage_charpente_techno_pf.html" />
+        <option value="$PROJECT_DIR$/machines/centre_usinage_charpente_techno_saw.html" />
+        <option value="$PROJECT_DIR$/machines/centre_usinage_charpente_techno_wall.html" />
       </list>
     </option>
   </component>
@@ -288,18 +303,18 @@
       <workItem from="1495015984389" duration="29000" />
       <workItem from="1495631786495" duration="5426000" />
       <workItem from="1495649250297" duration="4360000" />
-      <workItem from="1496501493725" duration="1446000" />
+      <workItem from="1496501493725" duration="3946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13815000" />
+    <option name="totallyTimeSpent" value="16315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1922" height="1038" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.092708334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20208333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -328,42 +343,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/machine_bois_centre_angulaire.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="59" lean-forward="false" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/machines/grugeuse_fraiseuse_en_bout_RONDA_DIGIT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1605">
-          <caret line="107" column="41" lean-forward="false" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2010">
-          <caret line="134" column="29" lean-forward="false" selection-start-line="134" selection-start-column="29" selection-end-line="134" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/machines/assemblage_cadreuse_volumetrique_ASSEMBLA_E.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/machine_bois_centre_angulaire.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="59" lean-forward="false" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/machines/grugeuse_fraiseuse_en_bout_RONDA_DIGIT.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1605">
@@ -624,14 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/machine_bois_composite_usinage_tenonneuses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="221" column="0" lean-forward="false" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/machines/machine_bois_composite_tenonneuses_utp_150_evolution.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -644,6 +615,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="197" column="64" lean-forward="false" selection-start-line="197" selection-start-column="64" selection-end-line="197" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine_bois_composite_usinage_tenonneuses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="221" column="0" lean-forward="false" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine_bois_composite_centre_usinage_charpente.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="265" column="0" lean-forward="true" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machines/centre_usinage_charpente_techno_turn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="276" column="0" lean-forward="false" selection-start-line="276" selection-start-column="0" selection-end-line="276" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machines/centre_usinage_charpente_techno_pf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="289" column="0" lean-forward="false" selection-start-line="289" selection-start-column="0" selection-end-line="289" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machines/centre_usinage_charpente_techno_saw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="269" column="0" lean-forward="false" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machines/centre_usinage_charpente_techno_wall.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="247" column="0" lean-forward="true" selection-start-line="247" selection-start-column="0" selection-end-line="247" selection-end-column="0" />
           <folding />
         </state>
       </provider>
