@@ -2,7 +2,7 @@
 Title:   Main JS Scripts file dedicated to this template
 Author:  http://themeforest.net/user/hogash // Marius Hogas  */
 
-var domainroot="http://hogash.com/demo/kalypso_html/"; // Specify your domain below. The search results will only be made for your website
+var domainroot="http://agence-bugeau.fr/"; // Specify your domain below. The search results will only be made for your website
 
 var hasChaser = 1;			// Enable Chaser menu (open on scroll) ?   1 - Yes / 0 - No
 
