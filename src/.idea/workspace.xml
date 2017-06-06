@@ -15,51 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="588" column="53" lean-forward="true" selection-start-line="588" selection-start-column="53" selection-end-line="588" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scie_panneau_KGS_700.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/machines/scie_panneau_KGS_700.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="327" column="24" lean-forward="false" selection-start-line="327" selection-start-column="24" selection-end-line="327" selection-end-column="162" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="agence_bugeau.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/agence_bugeau.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="91" column="102" lean-forward="false" selection-start-line="91" selection-start-column="91" selection-end-line="91" selection-end-column="102" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kalypso_script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/kalypso_script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manipulateur_robot_ks.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/machines/manipulateur_robot_ks.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="86" column="129" lean-forward="true" selection-start-line="86" selection-start-column="103" selection-end-line="86" selection-end-column="129" />
+            <state relative-caret-position="419">
+              <caret line="577" column="28" lean-forward="false" selection-start-line="577" selection-start-column="28" selection-end-line="577" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -69,12 +29,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Smart_29</find>
-      <find>Smart_290</find>
-      <find>Smart290</find>
-      <find>Smart-290</find>
-      <find>mart-290</find>
-      <find>smart-290</find>
       <find>s</find>
       <find>sc</find>
       <find>scie_a</find>
@@ -84,7 +38,6 @@
       <find>Langues</find>
       <find>\&lt;li class\=\&quot;languages drop\&quot;\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;span class\=\&quot;icon\-globe icon\-white\&quot;\&gt;\&lt;\/span\&gt; LANGUES\&lt;\/a\&gt;\n\	\	\	\	\	\	\&lt;div class\=\&quot;pPanel\&quot;\&gt;\n\	\	\	\	\	\	\	\&lt;ul class\=\&quot;inner\&quot;\&gt;\n\	\	\	\	\	\	\	\	\&lt;li class\=\&quot;active\&quot;\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Français \&lt;span class\=\&quot;icon\-ok\&quot;\&gt;\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\	\	\	\&lt;\/ul\&gt;\n\	\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\	\&lt;\/li\&gt;</find>
       <find>\&lt;li class\=\&quot;social\-youtube\&quot;\&gt;\&lt;a href\=\&quot;https\:\/\/twitter\.com\/\?lang\=fr\&quot;\&gt;Twitter\&lt;\/a\&gt;\&lt;\/li\&gt;\n                            \&lt;li class\=\&quot;social\-facebook\&quot;\&gt;\&lt;a href\=\&quot;https\:\/\/fr\-fr\.facebook\.com\/\&quot;\&gt;Facebook\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
-      <find>Réseaux</find>
       <find>\&lt;li class\=\&quot;social\-twitter\&quot;\&gt;\&lt;a href\=\&quot;https\:\/\/twitter\.com\/\?lang\=fr\&quot;\&gt;Twitter\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\	\	\&lt;li class\=\&quot;social\-facebook\&quot;\&gt;\&lt;a href\=\&quot;https\:\/\/fr\-fr\.facebook\.com\/\&quot;\&gt;Facebook\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
       <find>C</find>
       <find>Cher</find>
@@ -99,6 +52,13 @@
       <find>functionGsitesearch</find>
       <find>function Gsitesearch</find>
       <find>CHERCHER</find>
+      <find>Réseaux</find>
+      <find>Liens</find>
+      <find>Liens</find>
+      <find>Liens p</find>
+      <find>Liens pa</find>
+      <find>Liens par</find>
+      <find>Liens part</find>
     </findStrings>
     <replaceStrings>
       <replace>Machines pour métal</replace>
@@ -150,9 +110,9 @@
         <option value="$PROJECT_DIR$/machines/centre_usinage_charpente_techno_wall.html" />
         <option value="$PROJECT_DIR$/machine_PVC_aluminium_centre_usinage.html" />
         <option value="$PROJECT_DIR$/butees_mesures.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/agence_bugeau.html" />
         <option value="$PROJECT_DIR$/js/kalypso_script.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -322,12 +282,12 @@
       <workItem from="1495631786495" duration="5426000" />
       <workItem from="1495649250297" duration="4360000" />
       <workItem from="1496501493725" duration="6552000" />
-      <workItem from="1496763081340" duration="819000" />
+      <workItem from="1496763081340" duration="992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19740000" />
+    <option name="totallyTimeSpent" value="19913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1922" height="1038" extended-state="6" />
@@ -684,14 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="588" column="53" lean-forward="true" selection-start-line="588" selection-start-column="53" selection-end-line="588" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/machines/scie_panneau_KGS_700.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
@@ -708,6 +660,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/kalypso_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="51" column="30" lean-forward="false" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/agence_bugeau.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
@@ -716,10 +676,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/kalypso_script.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="419">
+          <caret line="577" column="28" lean-forward="false" selection-start-line="577" selection-start-column="28" selection-end-line="577" selection-end-column="28" />
           <folding />
         </state>
       </provider>
