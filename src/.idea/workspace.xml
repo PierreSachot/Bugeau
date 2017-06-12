@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="machine_bois_composite_usinage.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="machine_bois_composite_usinage.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/machine_bois_composite_usinage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="268" column="48" lean-forward="false" selection-start-line="268" selection-start-column="48" selection-end-line="268" selection-end-column="48" />
+            <state relative-caret-position="597">
+              <caret line="261" column="34" lean-forward="false" selection-start-line="261" selection-start-column="34" selection-end-line="261" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -55,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="machine_PVC_aluminium_centre_usinage.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="machine_PVC_aluminium_centre_usinage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/machine_PVC_aluminium_centre_usinage.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="507">
@@ -153,7 +153,6 @@
         <option value="$PROJECT_DIR$/machine_bois_centre_angulaire.html" />
         <option value="$PROJECT_DIR$/machines/ligne_fabrication_menuiserie_WINDOR.html" />
         <option value="$PROJECT_DIR$/machine_bois_composite_lignes_fabrication_menuiserie.html" />
-        <option value="$PROJECT_DIR$/machine_bois_composite_usinage.html" />
         <option value="$PROJECT_DIR$/machines/centre_usinage_panneau_3_4_5_axes_AUTHOR_M200.html" />
         <option value="$PROJECT_DIR$/machines/centre_usinage_panneau_3_4_5_axes_AUTHOR_M400.html" />
         <option value="$PROJECT_DIR$/machines/centre_usinage_panneau_3_4_5_axes_AUTHOR_M600.html" />
@@ -166,6 +165,7 @@
         <option value="$PROJECT_DIR$/machines/centre_debit_usinage_ALCOR_2.html" />
         <option value="$PROJECT_DIR$/machine_bois_composite_centre_usinage_charpente.html" />
         <option value="$PROJECT_DIR$/machine_PVC_aluminium_centre_usinage.html" />
+        <option value="$PROJECT_DIR$/machine_bois_composite_usinage.html" />
       </list>
     </option>
   </component>
@@ -322,12 +322,12 @@
       <workItem from="1495649250297" duration="4360000" />
       <workItem from="1496501493725" duration="6552000" />
       <workItem from="1496763081340" duration="1606000" />
-      <workItem from="1497274651006" duration="2907000" />
+      <workItem from="1497274651006" duration="3188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23434000" />
+    <option name="totallyTimeSpent" value="23715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1045" extended-state="6" />
@@ -758,14 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/machine_bois_composite_usinage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="268" column="48" lean-forward="false" selection-start-line="268" selection-start-column="48" selection-end-line="268" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/machine_bois_composite_centre_usinage_panneaux.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -778,6 +770,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
           <caret line="214" column="42" lean-forward="true" selection-start-line="214" selection-start-column="42" selection-end-line="214" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine_bois_composite_usinage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="261" column="34" lean-forward="false" selection-start-line="261" selection-start-column="34" selection-end-line="261" selection-end-column="34" />
           <folding />
         </state>
       </provider>
