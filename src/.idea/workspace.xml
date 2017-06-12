@@ -14,45 +14,10 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="machine_bois_composite_usinage.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/machine_bois_composite_usinage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="250" column="47" lean-forward="true" selection-start-line="250" selection-start-column="47" selection-end-line="250" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="machine_bois_composite_centre_usinage_panneaux.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/machine_bois_composite_centre_usinage_panneaux.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="178" column="49" lean-forward="false" selection-start-line="178" selection-start-column="49" selection-end-line="178" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="machine_bois_composite_centre_usinage_panneaux_placage_chant.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/machine_bois_composite_centre_usinage_panneaux_placage_chant.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="176" column="48" lean-forward="false" selection-start-line="176" selection-start-column="48" selection-end-line="176" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>function Gsitesearch</find>
-      <find>CHERCHER</find>
-      <find>Liens</find>
-      <find>Liens p</find>
       <find>Liens pa</find>
       <find>Liens par</find>
       <find>Liens part</find>
@@ -79,6 +44,10 @@
       <find>\&lt;li\&gt;\&lt;a href\=\&quot;centre_usinage_panneau_3_4_5_axes_AUTHOR_M200\.html\&quot;\&gt;Centre d\'usinage panneaux \&lt;br\&gt; \n\	\	\	\	\	\	\	\	      AUTHOR M200\n\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
       <find>\&lt;li\&gt;\&lt;a href\=\&quot;centre_usinage_panneau_3_4_5_axes_AUTHOR_M400\.html\&quot;\&gt;Centre d\'usinage panneaux \&lt;br\&gt;\n\	\	\	\	\	\	\	        AUTHOR M400\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
       <find>\&lt;li\&gt;\&lt;a href\=\&quot;centre_usinage_panneau_3_4_5_axes_AUTHOR_M600\.html\&quot;\&gt;Centre d\'usinage panneaux \&lt;br\&gt;\n\	\	\	\	\	\	\	        AUTHOR M600\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
+      <find>\&lt;li\&gt;\&lt;a href\=\&quot;centre_usinage_RUMBA\.html\&quot;\&gt;Centre d\'usinage\&lt;br\&gt;\n\	\	\	\	\	\	\	        RUMBA\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
+      <find>\&lt;li\&gt;\&lt;a href\=\&quot;centre_usinage_RUEDA_1\.html\&quot;\&gt;Centre d\'usinage 3\-4 axes\&lt;br\&gt;\n\	\	\	\	\	\	\	        RUEDA 1\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
+      <find>\&lt;li\&gt;\&lt;a href\=\&quot;centre_usinage_BOLERO_1\.html\&quot;\&gt;Centre d\'usinage 3\-4 axes\&lt;br\&gt;\n\	\	\	\	\	\	\	\	      BOLERO 1\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
+      <find>\&lt;li\&gt;\&lt;a href\=\&quot;centre_usinage_TANGO_3\.html\&quot;\&gt;Centre d\'usinage 5 axes\&lt;br\&gt;\n\	\	\	\	\	\	\	\	      TANGO 3\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>Machines pour métal</replace>
@@ -95,8 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/machines/tronconneuse_automatique_R050.html" />
-        <option value="$PROJECT_DIR$/machines/tronconneuse_automatique_R400.html" />
         <option value="$PROJECT_DIR$/machines/tronconneuse_automatique_R500.html" />
         <option value="$PROJECT_DIR$/machines/tronconneuse_automatique_R550.html" />
         <option value="$PROJECT_DIR$/machines/tronconneuse_automatique_R700.html" />
@@ -146,6 +113,8 @@
         <option value="$PROJECT_DIR$/machines/centre_usinage_panneau_placage_chant_UNIVERSAL_HP.html" />
         <option value="$PROJECT_DIR$/machine_bois_composite_centre_usinage_panneaux.html" />
         <option value="$PROJECT_DIR$/machine_bois_composite_centre_usinage_panneaux_placage_chant.html" />
+        <option value="$PROJECT_DIR$/machine_PVC_aluminium_centre_usinage.html" />
+        <option value="$PROJECT_DIR$/machines/centre_debit_usinage_ALCOR_2.html" />
       </list>
     </option>
   </component>
@@ -316,18 +285,17 @@
       <workItem from="1495649250297" duration="4360000" />
       <workItem from="1496501493725" duration="6552000" />
       <workItem from="1496763081340" duration="1606000" />
-      <workItem from="1497274651006" duration="2548000" />
+      <workItem from="1497274651006" duration="2779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23075000" />
+    <option name="totallyTimeSpent" value="23306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1045" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2640625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2640625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -374,20 +342,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/machines/tronconneuse_double_GAMMA_MX.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="323" column="24" lean-forward="false" selection-start-line="323" selection-start-column="24" selection-end-line="323" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/machines/tronconneuse_double_GAMMA_MX_SWING.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="324" column="24" lean-forward="false" selection-start-line="324" selection-start-column="24" selection-end-line="324" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/machines/tronconneuse_double_biseau_URANIA.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -678,14 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/machine_bois_composite_usinage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="250" column="47" lean-forward="true" selection-start-line="250" selection-start-column="47" selection-end-line="250" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/machines/centre_usinage_panneau_3_4_5_axes_TECH_Z1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -758,6 +704,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/machine_bois_composite_centre_usinage_panneaux_placage_chant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="176" column="48" lean-forward="false" selection-start-line="176" selection-start-column="48" selection-end-line="176" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/machine_bois_composite_centre_usinage_panneaux.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -766,10 +720,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/machine_bois_composite_centre_usinage_panneaux_placage_chant.html">
+    <entry file="file://$PROJECT_DIR$/machine_bois_composite_usinage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="176" column="48" lean-forward="false" selection-start-line="176" selection-start-column="48" selection-end-line="176" selection-end-column="48" />
+        <state relative-caret-position="342">
+          <caret line="250" column="47" lean-forward="true" selection-start-line="250" selection-start-column="47" selection-end-line="250" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machines/centre_debit_usinage_ALCOR_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="266" column="39" lean-forward="true" selection-start-line="266" selection-start-column="39" selection-end-line="266" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine_PVC_aluminium_centre_usinage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="193" column="0" lean-forward="false" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
           <folding />
         </state>
       </provider>
