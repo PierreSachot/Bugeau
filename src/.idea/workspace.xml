@@ -19,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/machine_bois_composite_centre_usinage_charpente.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="290">
-              <caret line="246" column="34" lean-forward="false" selection-start-line="246" selection-start-column="34" selection-end-line="246" selection-end-column="34" />
+              <caret line="240" column="34" lean-forward="false" selection-start-line="240" selection-start-column="34" selection-end-line="240" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -35,11 +35,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="machine_bois_composite_usinage.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="machine_bois_composite_usinage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/machine_bois_composite_usinage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="261" column="34" lean-forward="false" selection-start-line="261" selection-start-column="34" selection-end-line="261" selection-end-column="34" />
+            <state relative-caret-position="284">
+              <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agence_bugeau.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/agence_bugeau.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="85" column="60" lean-forward="true" selection-start-line="85" selection-start-column="60" selection-end-line="85" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -69,16 +89,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Liens pa</find>
-      <find>Liens par</find>
-      <find>Liens part</find>
-      <find>\&lt;div class\=\&quot;span4\&quot;\&gt;\n                    \&lt;div class\=\&quot;newsletter\-signup\&quot;\&gt;\n                        \&lt;h3 class\=\&quot;m_title\&quot;\&gt;ABONNEMENT NEWSLETTERS\&lt;\/h3\&gt;\n                        \&lt;p\&gt;Soyez les premiers à être informés de nos nouveautés\, des ventes de machines d\'occasion et de\n                            toute notre actualité \.\.\.\&lt;\/p\&gt;\n                        \&lt;form method\=\&quot;post\&quot; id\=\&quot;newsletter_subscribe\&quot; name\=\&quot;newsletter_form\&quot;\&gt;\n                            \&lt;input type\=\&quot;text\&quot; name\=\&quot;nl\-email\&quot; id\=\&quot;nl\-email\&quot; value\=\&quot;\&quot;\n                                   placeholder\=\&quot;votre_adresse\@email\.com\&quot;\/\&gt;\n                            \&lt;input type\=\&quot;submit\&quot; name\=\&quot;submit\&quot; id\=\&quot;nl\-submit\&quot; value\=\&quot;Restez informé \!\&quot;\/\&gt;\n                        \&lt;\/form\&gt;\n                        \&lt;span id\=\&quot;result\&quot;\&gt;\* Nous n\'envoyons jamais de spam \!\&lt;\/span\&gt;\n                        \&lt;small\&gt;\&lt;\/small\&gt;\n                    \&lt;\/div\&gt;\&lt;\!\-\- end newsletter\-signup \-\-\&gt;\n                \&lt;\/div\&gt;</find>
-      <find>h</find>
-      <find>haut</find>
-      <find>totop</find>
-      <find>#totop</find>
-      <find>\&lt;div class\=\&quot;span4\&quot;\&gt;\n\	\	\	\	\&lt;div class\=\&quot;newsletter\-signup\&quot;\&gt;\n\	\	\	\	\	\&lt;h3 class\=\&quot;m_title\&quot;\&gt;ABONNEMENT NEWSLETTERS\&lt;\/h3\&gt;\n\	\	\	\	\	\&lt;p\&gt;Soyez les premiers à être informés de nos nouveautés\, des ventes de machines d\'occasion et de toute notre actualité \.\.\.\&lt;\/p\&gt;\n\	\	\	\	\	\&lt;form method\=\&quot;post\&quot; id\=\&quot;newsletter_subscribe\&quot; name\=\&quot;newsletter_form\&quot;\&gt;\n\	\	\	\	\	\	\&lt;input type\=\&quot;text\&quot; name\=\&quot;nl\-email\&quot; id\=\&quot;nl\-email\&quot; value\=\&quot;\&quot; placeholder\=\&quot;votre_adresse\@email\.com\&quot; \/\&gt;\n\	\	\	\	\	\	\&lt;input type\=\&quot;submit\&quot; name\=\&quot;submit\&quot; id\=\&quot;nl\-submit\&quot; value\=\&quot;Restez informé \!\&quot; \/\&gt;\n\	\	\	\	\	\&lt;\/form\&gt;\n\	\	\	\	\	\&lt;span id\=\&quot;result\&quot;\&gt;\* Nous n\'envoyons jamais de spam \!\&lt;\/span\&gt;\&lt;small\&gt;\&lt;\/small\&gt;\n\	\	\	\	\&lt;\/div\&gt;\&lt;\!\-\- end newsletter\-signup \-\-\&gt;\n\	\	\	\&lt;\/div\&gt;</find>
-      <find>NEW</find>
       <find>Réseaux</find>
       <find>index_old.html</find>
       <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img src=&quot;images/logo2.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;</find>
@@ -99,6 +109,16 @@
       <find>\&lt;li\&gt;\&lt;a href\=\&quot;centre_usinage_RUEDA_1\.html\&quot;\&gt;Centre d\'usinage 3\-4 axes\&lt;br\&gt;\n\	\	\	\	\	\	\	        RUEDA 1\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
       <find>\&lt;li\&gt;\&lt;a href\=\&quot;centre_usinage_BOLERO_1\.html\&quot;\&gt;Centre d\'usinage 3\-4 axes\&lt;br\&gt;\n\	\	\	\	\	\	\	\	      BOLERO 1\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
       <find>\&lt;li\&gt;\&lt;a href\=\&quot;centre_usinage_TANGO_3\.html\&quot;\&gt;Centre d\'usinage 5 axes\&lt;br\&gt;\n\	\	\	\	\	\	\	\	      TANGO 3\&lt;\/a\&gt;\&lt;\/li\&gt;</find>
+      <find>\&lt;li class\=\&quot;languages drop\&quot;\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;span class\=\&quot;icon\-globe icon\-white\&quot;\&gt;\&lt;\/span\&gt; LANGUES\&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;pPanel\&quot;\&gt;\n                        \&lt;ul class\=\&quot;inner\&quot;\&gt;\n                            \&lt;li class\=\&quot;active\&quot;\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Français \&lt;span class\=\&quot;icon\-ok\&quot;\&gt;\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                        \&lt;\/ul\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;</find>
+      <find>Langue</find>
+      <find>\&lt;li class\=\&quot;languages drop\&quot;\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;\&lt;span class\=\&quot;icon\-globe icon\-white\&quot;\&gt;\&lt;\/span\&gt; LANGUES\&lt;\/a\&gt;\n\	\	\	\	\	\	\&lt;div class\=\&quot;pPanel\&quot;\&gt;\n\	\	\	\	\	\	\	\&lt;ul class\=\&quot;inner\&quot;\&gt;\n\	\	\	\	\	\	\	\	\&lt;li class\=\&quot;active\&quot;\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Français \&lt;span class\=\&quot;icon\-ok\&quot;\&gt;\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\	\	\	\	\n\	\	\	\	\	\	\	\&lt;\/ul\&gt;\n\	\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\	\&lt;\/li\&gt;</find>
+      <find>LANGU</find>
+      <find>LAN</find>
+      <find>LL</find>
+      <find>L</find>
+      <find>LANG</find>
+      <find>LANGUE</find>
+      <find>LANGUES</find>
     </findStrings>
     <replaceStrings>
       <replace>Machines pour métal</replace>
@@ -115,8 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/machines/tronconneuse_automatique_R500.html" />
-        <option value="$PROJECT_DIR$/machines/tronconneuse_automatique_R550.html" />
         <option value="$PROJECT_DIR$/machines/tronconneuse_automatique_R700.html" />
         <option value="$PROJECT_DIR$/machines/tronconneuse_automatique_R800.html" />
         <option value="$PROJECT_DIR$/machines/tronconneuse_double_ARGO.html" />
@@ -166,6 +184,8 @@
         <option value="$PROJECT_DIR$/machine_bois_composite_centre_usinage_charpente.html" />
         <option value="$PROJECT_DIR$/machine_PVC_aluminium_centre_usinage.html" />
         <option value="$PROJECT_DIR$/machine_bois_composite_usinage.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/agence_bugeau.html" />
       </list>
     </option>
   </component>
@@ -322,12 +342,12 @@
       <workItem from="1495649250297" duration="4360000" />
       <workItem from="1496501493725" duration="6552000" />
       <workItem from="1496763081340" duration="1606000" />
-      <workItem from="1497274651006" duration="3188000" />
+      <workItem from="1497274651006" duration="3376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23715000" />
+    <option name="totallyTimeSpent" value="23903000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1045" extended-state="6" />
@@ -380,20 +400,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/machines/tronconneuse_double_biseau_URANIA.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="311" column="24" lean-forward="false" selection-start-line="311" selection-start-column="24" selection-end-line="311" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/machines/tronconneuse_double_gros_profiles_HYDRA.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="317" column="24" lean-forward="false" selection-start-line="317" selection-start-column="24" selection-end-line="317" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/machines/tronconneuse_mono_tete_ ASTRA.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -745,7 +751,7 @@
     <entry file="file://$PROJECT_DIR$/machine_bois_composite_centre_usinage_charpente.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
-          <caret line="246" column="34" lean-forward="false" selection-start-line="246" selection-start-column="34" selection-end-line="246" selection-end-column="34" />
+          <caret line="240" column="34" lean-forward="false" selection-start-line="240" selection-start-column="34" selection-end-line="240" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -776,8 +782,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/machine_bois_composite_usinage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="261" column="34" lean-forward="false" selection-start-line="261" selection-start-column="34" selection-end-line="261" selection-end-column="34" />
+        <state relative-caret-position="284">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agence_bugeau.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="85" column="60" lean-forward="true" selection-start-line="85" selection-start-column="60" selection-end-line="85" selection-end-column="60" />
           <folding />
         </state>
       </provider>
