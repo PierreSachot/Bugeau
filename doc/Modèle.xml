@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!-- 
+Pour être en mesure de remplir ce document pour tous les contacts qui le demandent, il faut:
+* Se rendre sur SG auto répondeur
+* Choisir la liste de contacts Agence Bugeau
+* Sélectionner le contact correspondant 
+* Cliquer sur Exporter en pdf
+* Ouvrir le pdf ainsi généré
+* Reporter le contenu des champs qui y sont visibles dans le présent document
+-->
+<contact>
+	<!-- Adresse ip -->
+	<ip>
+		46.193.174.155
+	</ip>
+	<!-- Identité -->
+	<societe>Clovis Portron</societe>
+	<!-- Nom -->
+	<nom>Portron</nom>
+	<!-- Prénom -->
+	<prenom>Clovis</prenom>
+	<!-- Téléphone -->
+	<telepone>0761889139</telephone>
+	<!-- Encart sous icone contact -->
+	<email>portron.cl@gmail.com</email>
+	<!-- Champ personnalisé 1 -->
+	<projet>
+		Créer un modèle de document XML
+	</projet>
+	<!-- Champ personnalisé 16 -->
+	<consentement>
+		En soumettant ce formulaire, j'accepte que mes informations soient utilisées uniquement dans le cadre de ma demande et de la relation commerciale éthique et personnalisée qui peut en découler.
+	</consentement>
+</contact>
