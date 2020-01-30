@@ -4,4 +4,8 @@ Bugeau
 
 * Page-404.html avec liens en anglais. Probablement inutilisée.
 * Supprimer Rotowood-Evo liens vers pdf
-* Ajouter images aux machines TECHNO (pf turn et saw)
+* Supprimer ATELIER MENUISERIE PVC COMPLET
+* Supprimer ATELIER COMPLET DE MENUISERIES PVC
+* Ajouter: TRONÇONNEUSE DOUBLE NUMERIQUE
+* Ajouter: FRAISEUSE A COPIER
+* Ajouter: CENTRE D'USINAGE MANUEL ALUMINIUM
